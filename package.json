@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "team-profile-generator",
+  "description": "This app allows user to search for weather. The user can search for any city and will be able to to get forecast for the next 5 days.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+
+
+  "scripts": {
+    "test": "jest"
+  },
+
+  "author": "",
+  "license": "ISC"
+}
