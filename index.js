@@ -92,9 +92,9 @@ const createTeam = () => {
             name: "memberChoice",
             message: "Which type of team member would you like to add?",
             choices: [
-                "Engineer",
-                "Intern",
-                "I don't want to add any more team members"
+                "Add an Engineer",
+                "Add an Intern",
+                "Finish building the team"
             ]
         }
     ])

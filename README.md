@@ -2,7 +2,7 @@
 
 ## Description:
 
-This app allows user to search for weather. The user can search for any city and will be able to to get forecast for the next 5 days. 
+
 
 ## Installation:
 This app requires no installation. The quiz can be used easily run on the desktop or mobile browser. The app shows weather for the current day as well as for the next 5 days. The app also shows wind and humidity along with temperature. This app saves the data for previously viewed cities which allows user to acess the cities quicker. The saved locations can be cleared by clicking the 'clear history' button.   
