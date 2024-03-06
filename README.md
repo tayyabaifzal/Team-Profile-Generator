@@ -2,22 +2,29 @@
 
 ## Description:
 
-
+This command-line application will take in information about the team and generates an HTML page that displays summaries for each person.
+![Alt text](/assets/images/2.png)
 
 ## Installation:
-This app requires no installation. The quiz can be used easily run on the desktop or mobile browser. The app shows weather for the current day as well as for the next 5 days. The app also shows wind and humidity along with temperature. This app saves the data for previously viewed cities which allows user to acess the cities quicker. The saved locations can be cleared by clicking the 'clear history' button.   
+To use the app, you will need:
+- to install [Node](https://www.npmjs.com/package/inquirer) and all the dependencies including [Inquirer](https://www.npmjs.com/package/inquirer).
+- then run node 'index.js'
+- Answer all the questions about your team
+[] run the html file in the browser to see the results
 
+## Tests:
+To run the test, 'npm test' in your terminal. This app passed all the tests as shown below:
 ![Alt text](/assets/images/1.png)
 
 
 ## Links:
 The link to the deployed app is below:
 
-https://tayyabaifzal.github.io/Weather-Dashboard/
+
 
 You can access the code via github repo linked below:
 
-https://github.com/tayyabaifzal/Weather-Dashboard
+https://github.com/tayyabaifzal/Team-Profile-Generator
 
 ## Contact
 For further suggestions or complaints about the app, contact via github repo shown below
