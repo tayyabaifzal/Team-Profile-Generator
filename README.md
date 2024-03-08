@@ -2,8 +2,9 @@
 
 ## Description:
 
-This command-line application will take in information about the team and generates an HTML page that displays summaries for each person.
-![Alt text](/assets/images/2.png)
+This command-line application will take in information about the team and generates an HTML page that displays summaries for each person.You can build your team and showcase their information on the webpage using the app. 
+
+![Alt text](/images/2.png)
 
 ## Installation:
 To use the app, you will need:
@@ -14,14 +15,10 @@ To use the app, you will need:
 
 ## Tests:
 To run the test, 'npm test' in your terminal. This app passed all the tests as shown below:
-![Alt text](/assets/images/1.png)
+![Alt text](/images/1.png)
 
 
 ## Links:
-The link to the deployed app is below:
-
-
-
 You can access the code via github repo linked below:
 
 https://github.com/tayyabaifzal/Team-Profile-Generator
