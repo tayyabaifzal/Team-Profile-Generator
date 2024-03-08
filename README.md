@@ -21,6 +21,7 @@ To run the test, 'npm test' in your terminal. This app passed all the tests as s
 ## Demo:
 You can watch the demo video by clicking the link below:
 
+[Demo Video](https://drive.google.com/file/d/1XpWrtl1fr1LZfolvM6hvegNWLb-wgWFT/view)
 
 ## Links:
 You can access the code via github repo linked below:
