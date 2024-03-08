@@ -18,6 +18,9 @@ To run the test, 'npm test' in your terminal. This app passed all the tests as s
 
 ![Alt text](/images/1.png)
 
+## Demo:
+You can watch the demo video by clicking the link below:
+
 
 ## Links:
 You can access the code via github repo linked below:
