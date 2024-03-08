@@ -7,14 +7,15 @@ This command-line application will take in information about the team and genera
 ![Alt text](/images/2.png)
 
 ## Installation:
-To use the app, you will need:
-- to install [Node](https://www.npmjs.com/package/inquirer) and all the dependencies including [Inquirer](https://www.npmjs.com/package/inquirer).
+To use the app, 
+- you will need to install [Node](https://www.npmjs.com/package/inquirer) and all the dependencies including [Inquirer](https://www.npmjs.com/package/inquirer).
 - then run node 'index.js'
 - Answer all the questions about your team
-[] run the html file in the browser to see the results
+- run the html file in the browser to see the results
 
 ## Tests:
 To run the test, 'npm test' in your terminal. This app passed all the tests as shown below:
+
 ![Alt text](/images/1.png)
 
 
